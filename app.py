@@ -79,9 +79,7 @@ st.set_page_config(page_title="Cryptocurrency Price Prediction", page_icon="📈
 # Sidebar Developer Info
 st.sidebar.title("Developer Info")
 st.sidebar.info("""
-**Developer:** Chen Feng
-
-**Location:** Dandong, China
+**Developer:** Aether Crest
 
 **email** vijaiaaravindh.v10@gmail.com
 

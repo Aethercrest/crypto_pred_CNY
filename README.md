@@ -61,8 +61,8 @@ Welcome to the Cryptocurrency Price Prediction App! This application allows you 
 
 ## Developer Info
 
-- **Developer**: Chen Feng
-- **Location**: Dandong, China
+- **Developer**: Aether Crest
+
 - **Email**: [My eamil](vijaiaaravindh.v10@gmail.com)
 
 This app is built with ❤️ using **Streamlit**.
